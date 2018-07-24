@@ -1,0 +1,11 @@
+C:\Users\tbeas\Desktop\FirstCSharp\bin\MCD\Debug\netcoreapp2.1\FirstCSharp.deps.json
+C:\Users\tbeas\Desktop\FirstCSharp\bin\MCD\Debug\netcoreapp2.1\FirstCSharp.runtimeconfig.json
+C:\Users\tbeas\Desktop\FirstCSharp\bin\MCD\Debug\netcoreapp2.1\FirstCSharp.runtimeconfig.dev.json
+C:\Users\tbeas\Desktop\FirstCSharp\bin\MCD\Debug\netcoreapp2.1\FirstCSharp.dll
+C:\Users\tbeas\Desktop\FirstCSharp\bin\MCD\Debug\netcoreapp2.1\FirstCSharp.pdb
+C:\Users\tbeas\Desktop\FirstCSharp\obj\MCD\Debug\netcoreapp2.1\FirstCSharp.csprojAssemblyReference.cache
+C:\Users\tbeas\Desktop\FirstCSharp\obj\MCD\Debug\netcoreapp2.1\FirstCSharp.csproj.CoreCompileInputs.cache
+C:\Users\tbeas\Desktop\FirstCSharp\obj\MCD\Debug\netcoreapp2.1\FirstCSharp.AssemblyInfoInputs.cache
+C:\Users\tbeas\Desktop\FirstCSharp\obj\MCD\Debug\netcoreapp2.1\FirstCSharp.AssemblyInfo.cs
+C:\Users\tbeas\Desktop\FirstCSharp\obj\MCD\Debug\netcoreapp2.1\FirstCSharp.dll
+C:\Users\tbeas\Desktop\FirstCSharp\obj\MCD\Debug\netcoreapp2.1\FirstCSharp.pdb
